@@ -10,17 +10,17 @@ export default function Home() {
       <section className="remove-scrollbar container my-auto">
         <div className="sub-container max-w-[496px]">
           <Image
-            src="/assets/icons/wisal-med.svg"
+            src="/assets/icons/nexus-med-full.svg"
             height={1000}
             width={1000}
             alt="patient"
-            className="mb-12 h-10 w-fit"
+            className="mb-12 h-12 w-fit"
             // className="mb-12 h-12 w-fit"
           />
           <PatientForm />
           <div className="text-14-regular mt-20 flex justify-between">
             <p className="justify-items-end text-dark-600 xl:text-left">
-              © 2024 WisalMed. All rights reserved.
+              © 2024 NexusMed. All rights reserved.
             </p>
             <Link href="/?admin=true" className="text-green-500">
               Admin{" "}

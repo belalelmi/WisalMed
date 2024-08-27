@@ -12,7 +12,7 @@ const fontSans = Plus_Jakarta_Sans({
 });
 
 export const metadata: Metadata = {
-  title: "WisalMed",
+  title: "NexusMed",
   description: "A HealthCare Management System",
   icons: {
     icon: "/assets/icons/logo-icon.svg",
